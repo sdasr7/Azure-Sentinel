@@ -19,20 +19,20 @@ In the course of my internship, I had the opportunity to dive deeper into honeyp
 <h2>Program walk-through:</h2>
 
 <p align="center">
-A real-time log of the attacks coming in from Russia as well as the logs generated<br/>
-<img src="https://imgur.com/UJN2bJm" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Attacks from Netherlands coming in and logs being generated in Real Time<br/>
+<img src="https://i.imgur.com/7U4YRu6.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Custom logs are being outputted with geo data as part of the logs<br/>
-<img src="https://imgur.com/VUEK8L0" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Custom logs being output with geodata<br/>
+<img src="https://i.imgur.com/J0vct7z.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Applied custom logs with geodata to display world map after few minutes<br/>
-<img src="https://imgur.com/kaPOBNI" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+World map of incoming attacks after few hours (built custom logs including geodata) <br/>
+<img src="https://i.imgur.com/q4kjXom.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-An understanding of all the intrusion attempts over a period of time with Azure's Sentinel dashboard<br/>
-<img src="https://imgur.com/KPqNJlW" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Azure's Sentinel dashboard with insightful overview of all the intrusion attempts <br/>
+<img src="https://i.imgur.com/gYAxuEX.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
