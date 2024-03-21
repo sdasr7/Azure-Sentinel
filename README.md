@@ -10,7 +10,7 @@ In the course of my internship, I had the opportunity to dive deeper into honeyp
 - <b>PowerShell: Extract RDP failed logon logs from Windows Event Viewer</b> 
 
 
-<h2>Utilitie Used</h2>
+<h2>Utilities Used</h2>
 - <b>ipgeolocation.io: IP Address to Geolocation API</b>
 
 <h2>Reference</h2>
